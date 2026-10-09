@@ -1,0 +1,13 @@
+# Claude Code local settings (machine-specific, not for sharing)
+.claude/settings.local.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python cache (from running validation scripts)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
